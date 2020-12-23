@@ -1,0 +1,7 @@
+Wouldn’t it be cool to code your own mini code editor in JavaScript? I think this is a cool project idea for beginners!
+
+Here are a few ideas for additional features for your code editor:
+
+Use CSS for syntax highlighting
+Allow the user to switch between languages
+Add another screen next to your editor where the user can run the code
